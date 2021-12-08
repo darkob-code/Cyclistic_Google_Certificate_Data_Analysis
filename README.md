@@ -9,6 +9,6 @@ As a junior data analyst on Cyclistic's marketing analytics team, I've been task
 
 You'll find the written report on my data analysis process in the cyclistic-case-study.ipynb file above.
 
-My case study visuals: https://public.tableau.com/app/profile/
+Case study visuals: https://public.tableau.com/app/profile/
 
 My presentation to (fictional) stakeholders: 
