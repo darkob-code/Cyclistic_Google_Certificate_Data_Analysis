@@ -11,4 +11,3 @@ You'll find the written report on my data analysis process in the cyclistic-case
 
 Case study visuals: https://public.tableau.com/app/profile/darko6687#!/
 
-My presentation to (fictional) stakeholders: 
